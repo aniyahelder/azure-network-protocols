@@ -9,7 +9,7 @@ In this tutorial, we will observe various network traffic to and from Azure Virt
 <h1>Important note:</h1>
 This lab assumes you have already completed the previous lab/tutorial as it is the continuation of the last lab, if you have not already completed that one, go ahead and complete it and come back to this once you finish it. The link is listed below.
 
-- [How to Setup VMs and a Virtual Network in Azure](https://github.com/jacksonmalms/create-azure-vm)<br />
+- [How to Setup VMs and a Virtual Network in Azure](https://github.com/aniyahelder/createvm.git)<br />
 <h1>Environments and Technologies Used</h1>
 
 - Microsoft Azure (Virtual Machines/Compute)
