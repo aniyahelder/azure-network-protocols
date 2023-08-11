@@ -94,7 +94,7 @@ Now go back to the VM open the command line and ping -t the private IP address o
 <br />
 
 <p>
-<img src="https://i.imgur.com/FVyFq8w.png"/>
+<img src="https://i.imgur.com/5ng0zAP.png"/>
 </p>
 <p>
 Now we are going to disable ICMP traffic from the Ubuntu VM's NSG (network security group) in the Azure portal. To do this, type "NSG" in the Azure portal searchbar and click into Network security groups.
