@@ -118,7 +118,7 @@ Once you found the NSG for the Ubuntu VM, click on inbound security rules.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ut5fruj.png"/>
+<img src="https://i.imgur.com/wMQIhzh.png"/>
 </p>
 <p>
 Add a new rule with ICMP as the selected protocol, set the action to deny, and set the priority to any number that is lower than the first rule in the list (the lower the number, the higher the priority that the rule has) I set it to 299 as it has higher priority than 300. Now add the rule and wait for it to apply.
