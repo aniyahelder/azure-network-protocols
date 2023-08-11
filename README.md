@@ -178,7 +178,7 @@ Now in Wireshark filter for ssh traffic and refresh, again continue without savi
 <br />
 
 <p>
-<img src="https://i.imgur.com/xebnIjE.png"/>
+<img src="https://i.imgur.com/Le8kHG6.png"/>
 </p>
 <p>
 In the remote SSH connection within the command line type some linux shell commands like man, ls, pwd, etc and observe the SSH traffic.
