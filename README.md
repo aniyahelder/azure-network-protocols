@@ -102,7 +102,7 @@ Now we are going to disable ICMP traffic from the Ubuntu VM's NSG (network secur
 <br />
 
 <p>
-<img src="https://i.imgur.com/T0yT1Ni.png"/>
+<img src="https://i.imgur.com/UDxprMv.png"/>
 </p>
 <p>
 Find the NSG for the Ubuntu VM.
