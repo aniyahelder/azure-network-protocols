@@ -110,7 +110,7 @@ Find the NSG for the Ubuntu VM.
 <br />
 
 <p>
-<img src="https://i.imgur.com/iAfxZZo.png"/>
+<img src="https://i.imgur.com/WKYSH5r.png"/>
 </p>
 <p>
 Once you found the NSG for the Ubuntu VM, click on inbound security rules.
