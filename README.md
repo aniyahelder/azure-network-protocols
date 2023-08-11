@@ -134,7 +134,7 @@ Now going back into the VM, in the command line hit Ctrl + C to stop the continu
 <br />
 
 <p>
-<img src="https://i.imgur.com/Z91rAc3.png"/>
+<img src="https://i.imgur.com/8wbhQC8.png"/>
 </p>
 <p>
 Now lets delete the NSG rule we made on the ubuntu VM
