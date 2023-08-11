@@ -126,7 +126,7 @@ Add a new rule with ICMP as the selected protocol, set the action to deny, and s
 <br />
 
 <p>
-<img src="https://i.imgur.com/U6QJ1li.png"/>
+<img src="https://i.imgur.com/yB2ZY1i.png"/>
 </p>
 <p>
 Now going back into the VM, in the command line hit Ctrl + C to stop the continuous ping that we did with the ping -t command. Now hit the refresh button in Wireshark and continue without saving. Now try to ping the private IP of the Ubuntu VM again, now notice that our ping requests are now being timed out as we are not getting replies from our Ubuntu VM.
