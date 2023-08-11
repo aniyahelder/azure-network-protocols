@@ -36,7 +36,7 @@ This lab assumes you have already completed the previous lab/tutorial as it is t
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/UyHslgF.jpg"/>
+<img src="https://i.imgur.com/mAdV8nb.png"/>
 </p>
 <p>
 First go to your Azure portal if it is not already open https://portal.azure.com/. 
