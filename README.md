@@ -86,7 +86,7 @@ Find your Ubuntu VM's private IP and copy it.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ajzoggh.png"/>
+<img src="https://i.imgur.com/ODtzqIM.png"/>
 </p>
 <p>
 Now go back to the VM open the command line and ping -t the private IP address of the Ubuntu VM to make continuous ICMP traffic that will be captured by Wireshark. We should see requests from the Ubuntu VM's private IP, and replies from our Windows private IP as well.
