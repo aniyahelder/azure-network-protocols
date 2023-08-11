@@ -142,7 +142,7 @@ Now lets delete the NSG rule we made on the ubuntu VM
 <br />
 
 <p>
-<img src="https://i.imgur.com/v8Ye99H.png"/>
+<img src="https://i.imgur.com/fio4Y6q.png"/>
 </p>
 <p>
 Now try to ping the Ubuntu VM again using the ping command. We now should see that the Ubuntu VM is now sending replies again!
