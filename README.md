@@ -188,7 +188,7 @@ Type "exit" to terminate the SSH connection.
 <br />
 
 <p>
-<img src="https://i.imgur.com/WOVeWYF.png"/>
+<img src="https://i.imgur.com/8QKDx4c.png"/>
 </p>
 <p>
 Now let's observe DHCP traffic.
