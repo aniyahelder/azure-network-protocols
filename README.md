@@ -78,7 +78,7 @@ Once Wireshark opens, filter by "icmp" packets and hit the blue shark fin icon i
 <br />
 
 <p>
-<img src="https://i.imgur.com/xa4Sj67.png"/>
+<img src="https://i.imgur.com/UWuGOnR.png"/>
 </p>
 <p>
 Find your Ubuntu VM's private IP and copy it.
