@@ -150,7 +150,7 @@ Now try to ping the Ubuntu VM again using the ping command. We now should see th
 <br />
 
 <p>
-<img src="https://i.imgur.com/vlptP2x.png"/>
+<img src="https://i.imgur.com/TlxogHG.png"/>
 </p>
 <p>
 Now that we have observed ICMP traffic, we will now connect to our Ubuntu VM via SSH (secure shell) within the command line inside of the Windows VM.
